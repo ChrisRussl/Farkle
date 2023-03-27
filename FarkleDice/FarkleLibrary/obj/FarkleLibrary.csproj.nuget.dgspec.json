@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\OneDrive\\Desktop\\School\\Component\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj": {}
+    "C:\\Users\\Taylo\\Documents\\GitHub\\Farkle\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\OneDrive\\Desktop\\School\\Component\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj": {
+    "C:\\Users\\Taylo\\Documents\\GitHub\\Farkle\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\Component\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Taylo\\Documents\\GitHub\\Farkle\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj",
         "projectName": "FarkleLibrary",
-        "projectPath": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\Component\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\Component\\FarkleDice\\FarkleLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Taylo\\Documents\\GitHub\\Farkle\\FarkleDice\\FarkleLibrary\\FarkleLibrary.csproj",
+        "packagesPath": "C:\\Users\\Taylo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taylo\\Documents\\GitHub\\Farkle\\FarkleDice\\FarkleLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Taylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
