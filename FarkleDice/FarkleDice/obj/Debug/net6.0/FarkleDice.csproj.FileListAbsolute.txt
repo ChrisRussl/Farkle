@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\bin\Debug\net6.0\FarkleDice.exe
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\bin\Debug\net6.0\FarkleDice.deps.json
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\bin\Debug\net6.0\FarkleDice.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\bin\Debug\net6.0\FarkleDice.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\bin\Debug\net6.0\FarkleDice.pdb
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\refint\FarkleDice.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.pdb
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\FarkleDice.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\FarkleDice\FarkleDice\obj\Debug\net6.0\ref\FarkleDice.dll

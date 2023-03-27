@@ -23,6 +23,11 @@ namespace Farkle
             IsScored = true;
         }
 
+        public void SetPlayable()
+        {
+            IsScored = false;
+        }
+
 
     }
 }
