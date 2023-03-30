@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\bin\Debug\TestServiceHost.exe.config
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\bin\Debug\TestServiceHost.exe
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\bin\Debug\TestServiceHost.pdb
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\bin\Debug\TestLibrary.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\bin\Debug\TestLibrary.pdb
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.exe
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestServiceHost\obj\Debug\TestServiceHost.pdb

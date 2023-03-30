@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\obj\Debug\FarkleLibrary.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\obj\Debug\FarkleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\chris\OneDrive\Desktop\School\Component\WCF Example with callbacks and console client demonstrating 'turn-taking'\TestLibrary\obj\Debug\TestLibrary.pdb
